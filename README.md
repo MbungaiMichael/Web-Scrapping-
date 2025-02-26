@@ -2,7 +2,7 @@
 ## **Overview**
 This project extracts information from websites automatically using Python. It helps collect useful data without manual copying. 
 Whether you need to gather news articles, product prices, or research data, this tool makes the process quick and efficient. 
-It’s a great way to automate repetitive tasks and focus on analyzing the information instead.
+It’s a great way to automate repetitive tasks and focus on analyzing the information instead. This helps with data consistency.
 
 ## **What It Does**
 - Visits a website and retrieves data
